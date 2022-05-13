@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TugasPraktikum.iml" filepath="$PROJECT_DIR$/.idea/modules/TugasPraktikum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TugasPraktikum.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TugasPraktikum.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TugasPraktikum.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TugasPraktikum.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TugasPraktikum.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TugasPraktikum.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TugasPraktikum.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TugasPraktikum.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
